@@ -26,18 +26,7 @@ Um blog pessoal minimalista desenvolvido em **Next.js 15 (App Router)** com **Ta
 
 ## 🖥️ Como rodar localmente
 
-1. Clonar o repositório
-
-git clone https://github.com/Livs92/blog-pessoal.git
-
-2. Entrar na pasta
-
-cd blog-pessoal
-
-3. Instalar dependências
-
-npm install
-
-4. Rodar em modo de desenvolvimento
-
-npm run dev
+- Clonar o repositório: git clone https://github.com/Livs92/blog-pessoal.git
+- Entrar na pasta: cd blog-pessoal
+- Instalar dependências: npm install
+- Rodar o projeto: npm run dev
